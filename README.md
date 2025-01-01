@@ -92,7 +92,7 @@ pip install robin_stocks pandas yfinance
 
 I'm excited to hear your feedback, ideas, and collaboration proposals! 
 
-- 📧 **[Email Me](mailto:naumansair@gmail.com)**
+- 📧 **[Email Me](mailto:naumansair@outlook.com)**
 - 🐦 [**X Profile**](https://x.com/NaumanSair)
 - 📊 [**Kaggle Profile**](https://www.kaggle.com/muhammadsair)
 
